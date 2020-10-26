@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbenz\\Documents\\GitHub\\TestFeatureFlags\\TestFeatureFlags.csproj": {}
+    "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbenz\\Documents\\GitHub\\TestFeatureFlags\\TestFeatureFlags.csproj": {
+    "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbenz\\Documents\\GitHub\\TestFeatureFlags\\TestFeatureFlags.csproj",
+        "projectUniqueName": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj",
         "projectName": "TestFeatureFlags",
-        "projectPath": "C:\\Users\\bbenz\\Documents\\GitHub\\TestFeatureFlags\\TestFeatureFlags.csproj",
+        "projectPath": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj",
         "packagesPath": "C:\\Users\\bbenz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbenz\\Documents\\GitHub\\TestFeatureFlags\\obj\\",
+        "outputPath": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bbenz\\AppData\\Roaming\\NuGet\\NuGet.Config"

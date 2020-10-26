@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LTUzXTYSWW3CjR9dTSloZblANYRvrxCq3GR0ayQ0qGwLFGqgtG5yhYIHGqhJ3CvFs6D8tOd18i02YkQ/7p9GEQ==",
+  "dgSpecHash": "ipPy7z2dK5J5GrKqZ0vXOSI0Uijh36ZRaN+xSIH4TuPc85gWSSd6RRd7EoLZf38e1znx+UximnVAI5jkv0mcCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bbenz\\Documents\\GitHub\\TestFeatureFlags\\TestFeatureFlags.csproj",
+  "projectFilePath": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bbenz\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
     "C:\\Users\\bbenz\\.nuget\\packages\\azure.data.appconfiguration\\1.0.0\\azure.data.appconfiguration.1.0.0.nupkg.sha512",
