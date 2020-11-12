@@ -720,19 +720,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bbenz\\.nuget\\packages\\": {}
+    "/var/nuget": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj",
+      "projectUniqueName": "/home/codespace/workspace/devopswithgithub-TestFeatureFlags/TestFeatureFlags.csproj",
       "projectName": "TestFeatureFlags",
-      "projectPath": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\TestFeatureFlags.csproj",
-      "packagesPath": "C:\\Users\\bbenz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bbenz\\Documents\\GitHub\\devopswithgithub-TestFeatureFlags\\obj\\",
+      "projectPath": "/home/codespace/workspace/devopswithgithub-TestFeatureFlags/TestFeatureFlags.csproj",
+      "packagesPath": "/var/nuget",
+      "outputPath": "/home/codespace/workspace/devopswithgithub-TestFeatureFlags/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bbenz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -781,7 +781,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.1.301/sdk/3.1.301/RuntimeIdentifierGraph.json"
       }
     }
   }
